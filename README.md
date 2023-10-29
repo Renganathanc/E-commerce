@@ -1,18 +1,12 @@
-# JS AMAZONA
-# Amazona ECommerce Website
-![amazona](/frontend/images/jsamazona.jpg)
+# Hungama
+#  ECommerce Website
 
-# JavaScript Tutorial - Full ECommerce in 7 Hours [2021]
 
-Welcome to my React and Node tutorial to build a fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using Vanilla JavaScript and Node.JS, ExpressJS and MongoDB.
+# JavaScript 
 
-## Watch YouTube Video
-[https://www.youtube.com/watch?v=N3FDyheHVMM](https://www.youtube.com/watch?v=N3FDyheHVMM)
+Welcome to my React and Node project to build a fully-functional e-commerce website exactly like other websites. Open your code editor and follow me for the next hours to build an e-commerce website using Vanilla JavaScript and Node.JS, ExpressJS and MongoDB.
 
-## Demo Website
 
-- 👉 Heroku : [https://jsamazona.herokuapp.com](https://jsamazona.herokuapp.com)
-- 👉 AWS : [https://jsamazona.webacademy.pro](https://jsamazona.webacademy.pro)
 
 
 ## You Will Learn
@@ -22,7 +16,6 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 - Node & Express: Web API, Body Parser, File Upload, JWT
 - MongoDB: Mongoose, Aggregation
 - Development: ESLint, Babel, Git, Github,
-- Deployment: Heroku
 - Watch React & Node Tutorial
 
 ## Run Locally
@@ -31,7 +24,7 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 
 ```
 $ git clone git@github.com:basir/node-javascript-ecommerce.git
-$ cd node-javascript-ecommerce
+$ cd E-commerce
 ```
 
 ### 2. Setup MongoDB
@@ -79,10 +72,6 @@ $ npm start
 - Enter Product Information
 - Go to home page (http://localhost:8080) and test Ecommerce Website
 
-## Support
-
-- Q/A: https://codingwithbasir.com
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
 
 
 # Features
