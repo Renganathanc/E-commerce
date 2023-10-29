@@ -23,7 +23,7 @@ Welcome to my React and Node project to build a fully-functional e-commerce webs
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/node-javascript-ecommerce.git
+$ git clone https://github.com/Renganathanc/E-commerce.git
 $ cd E-commerce
 ```
 
